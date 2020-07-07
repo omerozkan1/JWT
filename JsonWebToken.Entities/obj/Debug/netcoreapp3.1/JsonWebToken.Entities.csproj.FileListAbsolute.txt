@@ -1,0 +1,9 @@
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\bin\Debug\netcoreapp3.1\JsonWebToken.Entities.deps.json
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\bin\Debug\netcoreapp3.1\JsonWebToken.Entities.dll
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\bin\Debug\netcoreapp3.1\JsonWebToken.Entities.pdb
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\obj\Debug\netcoreapp3.1\JsonWebToken.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\obj\Debug\netcoreapp3.1\JsonWebToken.Entities.AssemblyInfoInputs.cache
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\obj\Debug\netcoreapp3.1\JsonWebToken.Entities.AssemblyInfo.cs
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\obj\Debug\netcoreapp3.1\JsonWebToken.Entities.dll
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\obj\Debug\netcoreapp3.1\JsonWebToken.Entities.pdb
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.Entities\obj\Debug\netcoreapp3.1\JsonWebToken.Entities.csprojAssemblyReference.cache

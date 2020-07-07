@@ -1,0 +1,15 @@
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.DataAccess.deps.json
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.DataAccess.dll
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.AssemblyInfo.cs
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.DataAccess.runtimeconfig.json
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.DataAccess.runtimeconfig.dev.json
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.genruntimeconfig.cache
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.DataAccess.pdb
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.dll
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.pdb
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.Entities.dll
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\bin\Debug\netcoreapp3.1\JsonWebToken.Entities.pdb
+C:\Users\Ömer\source\repos\JsonWebTokenOrnekUygulama\JsonWebToken.DataAccess\obj\Debug\netcoreapp3.1\JsonWebToken.DataAccess.csproj.CopyComplete
